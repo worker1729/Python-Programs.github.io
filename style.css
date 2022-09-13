@@ -1,15 +1,14 @@
 body {
     background-color: powderblue;
-}
-div {
+    font-family: verdana;
     text-align: center;
-    font-weight: bold;
-    background-color: green;
-    border: black;
-    font-style: italic;
-    }
+}
+
 
 button {
-color: blue;
-border: 0;
+    background-color: green;
+    color: yellow;
+    font-family: arial;
+    margin: auto;
+    border: solid orange;
 }
