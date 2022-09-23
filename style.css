@@ -4,11 +4,29 @@ body {
     text-align: center;
 }
 
-
 button {
     background-color: green;
-    color: yellow;
+    color: blue;
     font-family: arial;
     margin: auto;
-    border: solid orange;
+    border: solid red;
+}
+
+.square {
+    width: 600px;
+    height: 200px;
+    background-color: green;
+    border: solid black;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}
+
+.computerchoice, .yourchoice {
+    color: blue;
+}
+
+.result {
+    color: orange;
 }
