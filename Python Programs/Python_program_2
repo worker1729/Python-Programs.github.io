@@ -1,0 +1,73 @@
+print("How much is 7 + 3?")
+a = 7
+b = 3
+c = a + b
+print("Answer:",c)
+print()
+print("How much is 9 - 2?")
+aa = 9
+bb = 2
+cc = aa - bb
+print("Answer: ",cc)
+print()
+print("How much is 8 ÷ 2?")
+aa = 8
+bb = 2
+cc = int(8/2)
+print("How much is: ", cc)
+print()
+print("How much is 3 x 3?")
+aa = 3
+bb = 3
+cc = 3*3
+print("Answer: ",cc)
+print()
+print("How much is 54 - 17?")
+aa = 54
+bb = 17
+cc = aa - bb
+print("Answer: ",cc)
+print()
+print("How much is 62 + 7?")
+aa = 62
+bb = 7
+cc = aa + bb
+print("Answer: ", cc)
+print()
+print("How  much is 25 + 16?")
+aa = 25
+bb = 16
+cc = aa + bb
+print("Answer: ",cc)
+print()
+print("How much is 23 + 22?")
+aa = 23
+bb = 22
+cc = aa + bb
+print("Asnwer: ",cc)
+print()
+print("How much is 39 - 18?")
+aa = 39
+bb = 18
+cc = aa - bb
+print("Answer: ",cc)
+print()
+print("How muhc is 38,785 - 188?")
+aa = 36785
+bb = 188
+cc = aa - bb
+print("Answer:", format(cc,','))
+print()
+print("How much is 72 + 98 - 17?")
+aa = 72
+bb = 98
+cc = -17
+dd = aa + bb + cc
+print("Answer: ",dd)
+print()
+print("How much is 376 - 360 + 337?")
+aa = 376
+bb = -360
+cc = 337
+dd = aa + bb + cc
+print("Answer:",dd)
