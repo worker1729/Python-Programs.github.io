@@ -83,3 +83,32 @@ cc = 337
 dd = aa + bb + cc
 print("Answer:",dd)
 print()
+
+print("How much is 444 + 332 - 216?")
+a = 444
+b = 332
+c = 216
+result = a + b - c
+print("Answer: ",result)
+print()
+
+print("How much is 2,170 + 4,370 - 400?")
+a = 2170
+b = 4370
+c = 400
+result = a + b - c
+print("Answer: ",format(result,','))
+print()
+
+print("How much is 7,777 + 3,443 - 1,173?")
+a = 7777
+b = 3443
+c = 1173
+result = a + b - c
+print("Answer: ", format(result,','))
+print()
+
+print("What is the absolute number of |7|?")
+result = abs(7)
+print("Answer: ", result)
+print()
