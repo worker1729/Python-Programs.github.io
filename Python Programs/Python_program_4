@@ -1,0 +1,5 @@
+print("How much is 42÷6?")
+a = 42
+b = 6
+c = int(a / b)
+print("Answer: ",c)
