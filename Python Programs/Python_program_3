@@ -1,0 +1,6 @@
+print('What is the answer for this math operation: (25+17) \
+(64-49)')
+a = (25+17)
+b = (64-49)
+c = a*b
+print("Result: ",c)
