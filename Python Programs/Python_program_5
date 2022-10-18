@@ -1,0 +1,5 @@
+print("How much is: 292 x 50")
+a = 292
+b = 50
+c = (a*b)
+print("Answer: ",c)
