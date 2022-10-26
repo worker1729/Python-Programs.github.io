@@ -1,4 +1,38 @@
-.text {
+body {
+	background-color: black;
+}
+
+#text1 {
 	color: blue;
 	background-color: green;
+	width: 150px;
+	height: 90px;
+	text-align: center;
+	font-family: calibri;
+}
+
+#text2 {
+	color: blue;
+	background-color: green;
+	width: 150px;
+	height: 90px;
+text-align: center;
+font-family: calibri;
+}
+
+.div1 {
+	display: flex;
+padding: 25px, 25px, 25px, 25px;
+position: absolute;
+top: 350px;
+left: 480px;
+
+}
+
+.div2 {
+	display: flex;
+border: black;
+position: absolute;
+top: 350px;
+right: 480px;
 }
