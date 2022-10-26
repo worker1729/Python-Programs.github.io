@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>My first website</title>
+ <link rel="stylesheet" href="styles.css">
+ <meta charset="UTF-8">
+</head>
+<body>
+  <!--this is a note for myself-->
+<h1 id="text1">Year</h1>
+<hr>
+<h2>Month</h2>
+<br>
+<h3>Week</h3>
+<br>
+<h4>Day</h4>
+<br>
+<h5>Hour</h5>
+<br>
+<h6>Minutes</h6>
+<br>
+<p>This is my first paragraph</p>
+I like weekends!
+
+</body>
+</html>
