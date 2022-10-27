@@ -6,7 +6,7 @@ body {
 	color: blue;
 	background-color: green;
 	width: 150px;
-	height: 90px;
+	height: 120px;
 	text-align: center;
 	font-family: calibri;
 }
@@ -15,24 +15,21 @@ body {
 	color: blue;
 	background-color: green;
 	width: 150px;
-	height: 90px;
+	height: 120px;
 text-align: center;
 font-family: calibri;
 }
 
 .div1 {
-	display: flex;
-padding: 25px, 25px, 25px, 25px;
+display: flex;
 position: absolute;
-top: 350px;
+top: 275px;
 left: 480px;
-
 }
 
 .div2 {
-	display: flex;
-border: black;
+display: flex;
 position: absolute;
-top: 350px;
+top: 275px;
 right: 480px;
 }
