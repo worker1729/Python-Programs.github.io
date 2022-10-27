@@ -1,0 +1,28 @@
+body {
+	background-color: black;
+}
+
+#text1, #text2 {
+	color: brown;
+	background-color: green;
+	width: 150px;
+	height: 120px;
+	text-align: center;
+	font-family: calibri;
+}
+
+.div1 {
+display: flex;
+position: absolute;
+top: 275px;
+left: 480px;
+
+}
+
+.div2 {
+	display: flex;
+position: absolute;
+top: 275px;
+right: 480px;
+}
+
