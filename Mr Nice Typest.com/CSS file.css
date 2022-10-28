@@ -1,5 +1,5 @@
 body {
-	background-color: blue;
+	background-color: black;
 }
 
 #text1, #text2 {
@@ -26,3 +26,6 @@ top: 275px;
 right: 480px;
 }
 
+#body1 {
+	background-color: powderblue;
+}
