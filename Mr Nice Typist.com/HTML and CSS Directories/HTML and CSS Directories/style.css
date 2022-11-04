@@ -1,0 +1,44 @@
+h1 {
+    text-align: center;
+    color: blue;
+    font-family: arial;
+    text-decoration: underline;
+}
+
+body {
+    background-image: url(background3.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    font-family: verdana;
+}
+
+h3 {
+    color: orange;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+}
+
+span {
+    color: orangered;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+h4 {
+    color: green;
+}
+
+h2 {
+    color: white;
+}
+
+.work {
+    color: red;
+}
+
+.word {
+color: green;
+}
