@@ -1,1 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Form</title>
+        <meta charset="UTF-8">
+        <meta name="description" content="Email Template">
+        <meta name="keywords" content="HTML and CSS">
+        <meta name="author" content="Diego Lopez">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <style>
+body {
+    font-family: Arial, Helvetica, sans-serif;}
 
+form {
+    border: 3px solid #f1f1f1;
+ font-family: Arial;
+}
+
+.container1 {
+    padding: 20px;
+background-color: lightgreen;
+
+}
+
+.no, no2 {
+    width: 175px;
+    height: 25px;
+    margin-left: 10px;
+}
+
+.button {
+    font-size: 16px;
+    padding: 10px 24px;
+    border-radius: 12px;
+    border: 2px solid blue;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.button:hover {
+  background-color: blue;
+  color: white;
+}
+
+form {
+    color: blue;
+    border: 3px solid brown;
+}
+
+h1 {
+    background-color: yellow;
+    color: gray;
+    padding: 20px 20px 20px 20px;
+    border: 3px solid brown;
+    text-align: center;
+}
+
+.no3 {
+    margin-left: 10px;
+}
+
+  </style>
+    </head>
+    <body>
+
+        <h1>Farmer's House</h1>
+
+        <form>
+            <div class="container1">
+                <h2>Subscribe to our week Magazine</h2>
+                <p>In this magazine we offer the last news regarding to
+                    new farming tools and equipment</p>
+            </div>
+            <br>
+            <div class="container2">
+                <label for="name">
+<input class="no" type="text" placeholder="Name" name="name" required>
+<br>
+<br>
+</label>
+<label for="mail">
+<input class="no" type="text" placeholder="Email address" name="mail" required>
+<br>
+<br>
+</label>
+<label>
+    <input class="no3" type="checkbox" name="subscribe">Weekly Magazine
+</label>
+            </div>
+            <div class="container3">
+                <br>
+<button class="button" type="submit">Submit</button>
+            </div>
+        </form>
+    </body>
+</html>
