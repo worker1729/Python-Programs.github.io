@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Horizontal Icon Bar</title>
+        <meta charset="UTF-8">
+        <meta name="description" content="I am creating a basic icon bar with HTML and CSS">
+        <meta name="author" content="Diego Lopez">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="refresh" content="60">
+        <style>
+body {
+    background-color: powderblue;
+}
+.all_icons {
+  width: 100%;
+  background-color: brown;
+  overflow: auto;
+}
+
+.all_icons a {
+float: left;
+  text-align: center;
+  width: 20%;
+  padding: 12px 0;
+  transition: all 0.3s ease;
+  color: white;
+  font-size: 36px;
+}
+
+.all_icons a:hover {
+    background-color: #000;
+
+}
+.ready {
+    background-color: blue;
+}
+        </style>
+        <script src="https://kit.fontawesome.com/5f2718db5c.js" crossorigin="anonymous"></script>
+    </head>
+    <body>
+        <div class="all_icons">
+            <a class="ready" href="#"><i class="fa-sharp fa-solid fa-house"></i></a>
+            <a href="#"><i class="fa-solid fa-magnifying-glass"></i></a>
+            <a href="#"><i class="fa-solid fa-envelope"></i></a>
+            <a href="#"><i class="fa-sharp fa-solid fa-earth-americas"></i></a>
+            <a href="#"><i class="fa-solid fa-trash-can"></i></a>
+        </div>
+    </body>
+</html>
