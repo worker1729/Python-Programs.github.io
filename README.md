@@ -1,1 +1,1 @@
-Hello, Let me introduce myself my name is Diego, I am HTML Developer, I learned HTML and CSS and I got a Responsive Web Design certification from Freecodecamp.org,  in all my projects here as you can see all my projects are oriented to email development, but I am doing my best to give my best work, feel free to see my projects, take care.
+Hello, Let me introduce myself my name is Diego, I am HTML Developer, I learned HTML and CSS and I got a Responsive Web Design certification from Freecodecamp.org, but my main area is going be everything for Python Development.
