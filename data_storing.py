@@ -1,4 +1,4 @@
-user = input("Enter the text you need to store: ")
+user = input("Enter the text to store: ")
 print("This is your text: " + user)
 
 
