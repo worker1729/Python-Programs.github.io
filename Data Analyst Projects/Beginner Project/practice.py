@@ -1,6 +1,6 @@
 import pandas as pd
 name = ["Mike", "Rachel", "Eunice"]
-age = [25, 35, 19]
+age = [25, 35, 20]
 gender = ["Male", "Female", "Female"]
 columns = {"Name": name,
 "Age": age, "Gender": gender}
